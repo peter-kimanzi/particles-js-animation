@@ -9,3 +9,5 @@ particle animation using particles js library
 * Particle js
 
 ## Live website can be viewed here
+
+https://peter-kimanzi.github.io/particles-js-animation/
