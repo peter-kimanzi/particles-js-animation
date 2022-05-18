@@ -6,3 +6,4 @@ particle animation using particles js library
 
 * HTML
 * CSS
+* Particle js
