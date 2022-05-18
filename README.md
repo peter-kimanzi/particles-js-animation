@@ -7,3 +7,5 @@ particle animation using particles js library
 * HTML
 * CSS
 * Particle js
+
+## Live website can be viewed here
