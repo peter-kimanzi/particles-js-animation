@@ -2,4 +2,4 @@
 
 particle animation using particles js library
 
-#
+## Technologies used
